@@ -1,0 +1,25 @@
+{
+  "name": "skyline",
+  "version": "1.0.0",
+  "description": "skyline - A modern and lite complete text editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djtech-dev/skyline.git"
+  },
+  "author": "dj_tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djtech-dev/skyline/issues"
+  },
+  "homepage": "https://github.com/djtech-dev/skyline#readme",
+  "dependencies": {
+    "electron": "^19.0.8",
+    "monaco-editor": "^0.33.0",
+    "tinymce": "^6.1.0",
+    "xterm": "^4.19.0"
+  }
+}
